@@ -74,7 +74,7 @@
 
 ## 📈 Visitor Count
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=stoaxcode&icon=2&color=0" />
+  <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=Visitors&query=value&url=https://api.countapi.xyz/hit/stoaxcode/visits" alt="Visitors" />
 </p>
 
 ---
