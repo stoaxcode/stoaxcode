@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 🧑🏻‍💻Front-end Developer<br>📚Self-taught Programmer<br>🧠Curious, committed, and always learning something new.
+### 🧑🏻‍💻Front-end Developer<br>📚Self-taught Programmer<br>🧠Curious, committed, and always learning something new.
 
 
 ## 🌐 Socials:
