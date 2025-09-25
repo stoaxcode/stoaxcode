@@ -74,7 +74,7 @@
 
 ## 📈 Visitor Count
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?color=informational&label=Visitors&query=value&url=https://api.countapi.xyz/hit/stoaxcode/visits" alt="Visitors" />
+   <img src="https://komarev.com/ghpvc/?username=stoaxcode&label=Profile%20views&color=0e75b6&style=flat" alt="stoaxcode" />
 </p>
 
 ---
