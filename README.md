@@ -9,7 +9,7 @@
 ╚══════╝   ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝
 ```
 
-</div>
+<br>
 
 ```console
 ┌───────────────────────────────────────────────────────────────────────────┐
@@ -23,7 +23,9 @@
 └───────────────────────────────────────────────────────────────────────────┘
 ```
 
-## 💻 $ cat about_me.txt
+<br>
+
+## <h2 align="center">💻 $ cat about_me.txt</h2>
 
 ```bash
 #!/bin/bash
@@ -38,9 +40,13 @@ echo "Aspiring embedded/firmware engineer with hands-on experience"
 echo "Building the future, one circuit at a time ⚡"
 ```
 
+<br>
+
 ---
 
-## 🌐 $ open ./socials
+<br>
+
+## <h2 align="center">🌐 $ open ./socials</h2>
 
 ```
 [stoaxcode@terminal ~]$ ls -l ~/social_links/
@@ -56,9 +62,13 @@ total 4
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://tiktok.com/@stoaxcode)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@UCk9O3vSsjz1jJVdOxOAYOnw)
 
+<br>
+
 ---
 
-## 🛠️ $ ls -la /tech_stack/
+<br>
+
+## <h2 align="center">🛠️ $ ls -la /tech_stack/</h2>
 
 ```
 [stoaxcode@terminal ~]$ tree /tech_stack/
@@ -81,8 +91,6 @@ total 4
 3 directories, 10 files
 ```
 
-<div align="center">
-
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -92,18 +100,18 @@ total 4
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
-</div>
+<br>
 
 ---
 
-## 📊 $ ./github_stats.sh
+<br>
+
+## <h2 align="center">📊 $ ./github_stats.sh</h2>
 
 ```
 [stoaxcode@terminal ~]$ ./github_stats.sh
 Loading statistics...
 ```
-
-<div align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=stoaxcode&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00ff00&text_color=00ff00&icon_color=00ff00)
 
@@ -111,65 +119,65 @@ Loading statistics...
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=stoaxcode&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=00ff00&layout=compact)
 
-</div>
+<br>
 
 ---
 
-## 🏆 $ cat /var/log/achievements.log
+<br>
+
+## <h2 align="center">🏆 $ cat /var/log/achievements.log</h2>
 
 ```
 [stoaxcode@terminal ~]$ cat /var/log/achievements.log
 Loading GitHub trophies...
 ```
 
-<div align="center">
-
 ![](https://github-profile-trophy.vercel.app/?username=stoaxcode&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=7)
 
-</div>
+<br>
 
 ---
 
-## 💭 $ fortune | cowsay
+<br>
 
-<div align="center">
+## <h2 align="center">💭 $ fortune | cowsay</h2>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote_bg_color=0d1117&quote_color=00ff00&author_color=00ff00&border_color=00ff00)
 
-</div>
+<br>
 
 ---
 
-## 🔝 $ git log --author="stoaxcode" --graph
+<br>
+
+## <h2 align="center">🔝 $ git log --author="stoaxcode" --graph</h2>
 
 ```
 [stoaxcode@terminal ~]$ git log --author="stoaxcode" --graph --oneline
 Fetching top contributed repositories...
 ```
 
-<div align="center">
-
 ![](https://github-contributor-stats.vercel.app/api?username=stoaxcode&limit=5&theme=matrix&combine_all_yearly_contributions=true&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=00ff00)
 
-</div>
+<br>
 
 ---
 
-## 📈 $ cat /proc/profile_views
+<br>
+
+## <h2 align="center">📈 $ cat /proc/profile_views</h2>
 
 ```
 [stoaxcode@terminal ~]$ cat /proc/profile_views
 ```
 
-<div align="center">
-
 ![](https://visitcount.itsvg.in/api?id=stoaxcode&icon=2&color=12&labelColor=0d1117)
 
-</div>
+<br>
 
 ---
 
-<div align="center">
+<br>
 
 ```
 ┌─────────────────────────────────────────────────────────────────────┐
