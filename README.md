@@ -2,9 +2,9 @@
 
 # 💻 StoaxCode
 
-### Embedded Systems & Electronics Engineer
+### Electronics Technology Student | Aspiring Embedded Systems Engineer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Embedded+Systems+Developer;Firmware+Engineering;Industrial+Automation;PLC+Programming;Electronics+Technology" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Electronics+Technology+Student;Embedded+Systems+Enthusiast;Learning+Firmware+Development;PLC+Programming;Building+Hands-on+Experience" alt="Typing SVG" />
 
 </div>
 
@@ -12,24 +12,24 @@
 
 <div align="center">
 
-## 🔌 Technical Expertise
+## 🎓 About Me
 
 </div>
 
 ```c
-// Core Competencies
+// Student Profile
 typedef struct {
-    const char* specialization;
-    const char* systems[3];
-    const char* industrial[3];
-    const char* development[3];
-} TechnicalProfile;
+    const char* status;
+    const char* passion;
+    const char* interests[3];
+    const char* current_focus;
+} StudentProfile;
 
-TechnicalProfile profile = {
-    .specialization = "Embedded Systems & Electronics Engineering",
-    .systems = {"Embedded Linux", "Microcontroller Programming", "Real-time Systems"},
-    .industrial = {"PLC Systems", "Industrial Control", "Process Automation"},
-    .development = {"Firmware Engineering", "Low-level Programming", "Hardware Integration"}
+StudentProfile me = {
+    .status = "Electronics Technology Student",
+    .passion = "Linux user passionate about electronics and embedded systems",
+    .interests = {"Embedded Systems", "PLCs", "Industrial Electronics"},
+    .current_focus = "Building hands-on experience and learning firmware development ⚡"
 };
 ```
 
@@ -118,7 +118,7 @@ TechnicalProfile profile = {
 
 <div align="center">
 
-### 🔧 Embedded Systems | ⚡ Electronics Engineering | 🖥️ Firmware Development
+### 🎓 Student | 🔧 Embedded Systems Enthusiast | ⚡ Learning & Building
 
 ![Profile Views](https://visitcount.itsvg.in/api?id=stoaxcode&icon=2&color=12&labelColor=0d1117)
 
