@@ -1,110 +1,76 @@
 <h1 align="center">Hi there 👋, I'm StoaxCode</h1>
-<h3 align="center">💻 Front-End Developer | ⚡ Electronics Enthusiast | 🧠 Lifelong Learner</h3>
+<h3 align="center">💻 Embedded/ Electronics Enthusiast | ⚡ Linux User | 🧠 Lifelong Learner</h3>
 
 ---
 
 ## 💫 About Me
 <p align="center">
-Curious about how <strong>software and hardware</strong> connect to shape technology. <br>
-Passionate about <strong>web development</strong> and <strong>electronics</strong>. <br>
-Currently learning <strong>Front-End Development</strong> and building my skills one project at a time. ⚙️
+Linux user passionate about <strong>electronics and embedded systems</strong>.<br>
+Aspiring <strong>embedded/firmware engineer</strong> with an interest in PLCs and industrial electronics.<br>
+Currently studying <strong>Electronics Technology</strong> and building hands-on experience. ⚡
 </p>
 
 ---
 
 ## 🌐 Socials
 <p align="center">
-  <a href="https://facebook.com/roland.x.code17"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/></a>
+  <a href="https://facebook.com/stoaxcode"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/></a>
   <a href="https://instagram.com/stoaxcode"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://x.com/stoacode"><img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"/></a>
+  <a href="https://tiktok.com/@stoaxcode"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok"/></a>
+  <a href="https://youtube.com/@https://www.youtube.com/channel/UCk9O3vSsjz1jJVdOxOAYOnw"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"/></a>
 </p>
 
 ---
 
 ## 💻 Tech Stack
 <p align="center">
-  <!-- Programming Languages -->
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img src="https://img.shields.io/badge/Lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white"/>
-
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-
-  <!-- Backend -->
-  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
-
-  <!-- Tools & Platforms -->
-  <img src="https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"/>
-  <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black"/>
-  <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-  <!-- Design & Productivity -->
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black"/>
-
-  <!-- Hardware & Misc -->
-  <img src="https://img.shields.io/badge/Arduino-00979D.svg?style=for-the-badge&logo=Arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A.svg?style=for-the-badge&logo=Raspberry-Pi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash_Script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitLab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitLab_CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 <div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=stoaxcode&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=stoaxcode&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=stoaxcode&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+  ![](https://github-readme-stats.vercel.app/api?username=stoaxcode&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+  ![](https://nirzak-streak-stats.vercel.app/?user=stoaxcode&theme=dark&hide_border=false)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=stoaxcode&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </div>
 
 ---
 
 ## 🏆 GitHub Trophies
 <div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=stoaxcode&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
+  ![](https://github-profile-trophy.vercel.app/?username=stoaxcode&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 </div>
 
 ---
 
 ## ✍️ Random Dev Quote
 <div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 </div>
 
 ---
 
 ## 🔝 Top Contributed Repos
 <div align="center">
-
-![](https://github-contributor-stats.vercel.app/api?username=stoaxcode&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
+  ![](https://github-contributor-stats.vercel.app/api?username=stoaxcode&limit=5&theme=dark&combine_all_yearly_contributions=true)
 </div>
 
 ---
 
 ## 📈 Profile Views
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=stoaxcode&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=stoaxcode&icon=1&color=7" alt="Profile Views"/></a>
 </p>
 
 ---
