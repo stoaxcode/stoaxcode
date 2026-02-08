@@ -1,96 +1,187 @@
-<h1 align="center">💻 StoaxCode Terminal</h1>
-<p align="center" style="color:#00FF00; font-family:monospace;">
-┌───────────────────────────────────────────┐<br/>
-│ Hi there 👋, I'm StoaxCode               │<br/>
-│ Embedded / Electronics Enthusiast        │<br/>
-│ Linux User | ⚡ Hardware Hacker          │<br/>
-└───────────────────────────────────────────┘
-</p>
-
-<p align="center" style="color:#00FF00; font-family:monospace;">
-────────────────────────────────────────────
-</p>
-
-<h2>💫 About Me</h2>
-<p align="center" style="color:#00FF00; font-family:monospace;">
-$ cat about_me.txt<br/>
-Linux user passionate about electronics and embedded systems.<br/>
-Aspiring embedded/firmware engineer with an interest in PLCs and industrial electronics.<br/>
-Currently studying Electronics Technology and building hands-on experience. ⚡
-</p>
-
-<p align="center" style="color:#00FF00; font-family:monospace;">
-────────────────────────────────────────────
-</p>
-
-<h2>🌐 Socials</h2>
-<p align="center" style="color:#00FF00; font-family:monospace;">
-$ open socials<br/>
-[Facebook](https://facebook.com/stoaxcode) | [Instagram](https://instagram.com/stoaxcode) | [TikTok](https://tiktok.com/@stoaxcode) | [YouTube](https://youtube.com/@https://www.youtube.com/channel/UCk9O3vSsjz1jJVdOxOAYOnw)
-</p>
-
-<p align="center" style="color:#00FF00; font-family:monospace;">
-────────────────────────────────────────────
-</p>
-
-<h2>💻 Tech Stack</h2>
-<p align="center" style="color:#00FF00; font-family:monospace;">
-$ ls -la /tech_stack<br/>
-C | C++ | Bash | Python | Rust | Git | GitHub | GitLab | GitHub Actions | GitLab CI
-</p>
-
-<p align="center" style="color:#00FF00; font-family:monospace;">
-────────────────────────────────────────────
-</p>
-
-<h2>📊 GitHub Stats</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=stoaxcode&theme=dark&hide_border=true&include_all_commits=true&count_private=true&title_color=00FF00&text_color=00FF00&icon_color=00FF00" alt="GitHub Stats"/><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=stoaxcode&theme=dark&hide_border=true&ring=00FF00&fire=00FF00&currStreakNum=00FF00" alt="GitHub Streak"/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stoaxcode&theme=dark&hide_border=true&title_color=00FF00&text_color=00FF00&layout=compact" alt="Top Languages"/>
+
+```
+███████╗████████╗ ██████╗  █████╗ ██╗  ██╗ ██████╗ ██████╗ ██████╗ ███████╗
+██╔════╝╚══██╔══╝██╔═══██╗██╔══██╗╚██╗██╔╝██╔════╝██╔═══██╗██╔══██╗██╔════╝
+███████╗   ██║   ██║   ██║███████║ ╚███╔╝ ██║     ██║   ██║██║  ██║█████╗  
+╚════██║   ██║   ██║   ██║██╔══██║ ██╔██╗ ██║     ██║   ██║██║  ██║██╔══╝  
+███████║   ██║   ╚██████╔╝██║  ██║██╔╝ ██╗╚██████╗╚██████╔╝██████╔╝███████╗
+╚══════╝   ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝
+```
+
 </div>
 
-<p align="center" style="color:#00FF00; font-family:monospace;">
-────────────────────────────────────────────
-</p>
+```console
+┌───────────────────────────────────────────────────────────────────────────┐
+│                                                                           │
+│  > whoami                                                                 │
+│  StoaxCode - Embedded Systems & Electronics Enthusiast                   │
+│                                                                           │
+│  > uname -a                                                               │
+│  Linux User | ⚡ Hardware Hacker | Future Firmware Engineer              │
+│                                                                           │
+└───────────────────────────────────────────────────────────────────────────┘
+```
 
-<h2>🏆 GitHub Trophies</h2>
+## 💻 $ cat about_me.txt
+
+```bash
+#!/bin/bash
+# Profile Information
+
+NAME="StoaxCode"
+ROLE="Embedded/Electronics Enthusiast"
+STATUS="Student | Electronics Technology"
+PASSION=("Linux" "PLCs" "Industrial Electronics" "Firmware Development")
+
+echo "Aspiring embedded/firmware engineer with hands-on experience"
+echo "Building the future, one circuit at a time ⚡"
+```
+
+---
+
+## 🌐 $ open ./socials
+
+```
+[stoaxcode@terminal ~]$ ls -l ~/social_links/
+total 4
+-rwxr-xr-x 1 stoaxcode stoaxcode  Facebook  -> https://facebook.com/stoaxcode
+-rwxr-xr-x 1 stoaxcode stoaxcode  Instagram -> https://instagram.com/stoaxcode
+-rwxr-xr-x 1 stoaxcode stoaxcode  TikTok    -> https://tiktok.com/@stoaxcode
+-rwxr-xr-x 1 stoaxcode stoaxcode  YouTube   -> https://youtube.com/@UCk9O3vSsjz1jJVdOxOAYOnw
+```
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/stoaxcode)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/stoaxcode)
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://tiktok.com/@stoaxcode)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@UCk9O3vSsjz1jJVdOxOAYOnw)
+
+---
+
+## 🛠️ $ ls -la /tech_stack/
+
+```
+[stoaxcode@terminal ~]$ tree /tech_stack/
+
+/tech_stack/
+├── languages/
+│   ├── C
+│   ├── C++
+│   ├── Python
+│   ├── Rust
+│   └── Bash
+├── tools/
+│   ├── Git
+│   ├── GitHub
+│   └── GitLab
+└── ci_cd/
+    ├── GitHub Actions
+    └── GitLab CI
+
+3 directories, 10 files
+```
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=stoaxcode&theme=darkhub&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+
 </div>
 
-<p align="center" style="color:#00FF00; font-family:monospace;">
-────────────────────────────────────────────
-</p>
+---
 
-<h2>✍️ Random Dev Quote</h2>
+## 📊 $ ./github_stats.sh
+
+```
+[stoaxcode@terminal ~]$ ./github_stats.sh
+Loading statistics...
+```
+
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote"/>
+
+![](https://github-readme-stats.vercel.app/api?username=stoaxcode&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00ff00&text_color=00ff00&icon_color=00ff00)
+
+![](https://nirzak-streak-stats.vercel.app/?user=stoaxcode&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff00&fire=00ff00&currStreakNum=00ff00&sideNums=00ff00&sideLabels=00ff00&dates=00ff00)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=stoaxcode&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=00ff00&layout=compact)
+
 </div>
 
-<p align="center" style="color:#00FF00; font-family:monospace;">
-────────────────────────────────────────────
-</p>
+---
 
-<h2>🔝 Top Contributed Repos</h2>
+## 🏆 $ cat /var/log/achievements.log
+
+```
+[stoaxcode@terminal ~]$ cat /var/log/achievements.log
+Loading GitHub trophies...
+```
+
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=stoaxcode&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos"/>
+
+![](https://github-profile-trophy.vercel.app/?username=stoaxcode&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=7)
+
 </div>
 
-<p align="center" style="color:#00FF00; font-family:monospace;">
-────────────────────────────────────────────
-</p>
+---
 
-<h2>📈 Profile Views</h2>
-<p align="center" style="color:#00FF00; font-family:monospace;">
-$ cat profile_views<br/>
-<img src="https://visitcount.itsvg.in/api?id=stoaxcode&icon=1&color=00FF00" alt="Profile Views"/>
-</p>
+## 💭 $ fortune | cowsay
 
-<p align="center" style="color:#00FF00; font-family:monospace;">
-────────────────────────────────────────────
-</p>
+<div align="center">
 
-<p align="center" style="color:#00FF00; font-family:monospace;">
-✨ Proudly crafted with GPRM and passion ✨
-</p>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote_bg_color=0d1117&quote_color=00ff00&author_color=00ff00&border_color=00ff00)
+
+</div>
+
+---
+
+## 🔝 $ git log --author="stoaxcode" --graph
+
+```
+[stoaxcode@terminal ~]$ git log --author="stoaxcode" --graph --oneline
+Fetching top contributed repositories...
+```
+
+<div align="center">
+
+![](https://github-contributor-stats.vercel.app/api?username=stoaxcode&limit=5&theme=matrix&combine_all_yearly_contributions=true&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=00ff00)
+
+</div>
+
+---
+
+## 📈 $ cat /proc/profile_views
+
+```
+[stoaxcode@terminal ~]$ cat /proc/profile_views
+```
+
+<div align="center">
+
+![](https://visitcount.itsvg.in/api?id=stoaxcode&icon=2&color=12&labelColor=0d1117)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│                                                                     │
+│  > exit                                                             │
+│  Thank you for visiting! Feel free to explore my repositories.     │
+│                                                                     │
+│  ~ Crafted with 💚 by StoaxCode ~                                  │
+│                                                                     │
+└─────────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+<!-- Proudly generated with terminal aesthetics in mind -->
