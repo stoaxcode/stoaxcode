@@ -15,29 +15,30 @@
 ┌───────────────────────────────────────────────────────────────────────────┐
 │                                                                           │
 │  > whoami                                                                 │
-│  StoaxCode - Embedded Systems & Electronics Enthusiast                   │
+│  StoaxCode - Embedded Systems & Electronics Engineer                     │
 │                                                                           │
 │  > uname -a                                                               │
-│  Linux User | ⚡ Hardware Hacker | Future Firmware Engineer              │
+│  Embedded Systems | Firmware Development | Industrial Automation         │
 │                                                                           │
 └───────────────────────────────────────────────────────────────────────────┘
 ```
 
 <br>
 
-## <h2 align="center">💻 $ cat about_me.txt</h2>
+## <h2 align="center">💻 $ cat profile.txt</h2>
 
 ```bash
 #!/bin/bash
-# Profile Information
+# Technical Profile
 
-NAME="StoaxCode"
-ROLE="Embedded/Electronics Enthusiast"
-STATUS="Student | Electronics Technology"
-PASSION=("Linux" "PLCs" "Industrial Electronics" "Firmware Development")
+SPECIALIZATION="Embedded Systems & Electronics Engineering"
+CURRENT_FOCUS="Firmware Development | PLC Programming | Industrial Automation"
+EDUCATION="Electronics Technology"
 
-echo "Aspiring embedded/firmware engineer with hands-on experience"
-echo "Building the future, one circuit at a time ⚡"
+# Core Competencies
+SYSTEMS=("Embedded Linux" "Microcontroller Programming" "Real-time Systems")
+INDUSTRIAL=("PLC Systems" "Industrial Control" "Process Automation")
+DEVELOPMENT=("Firmware Engineering" "Low-level Programming" "Hardware Integration")
 ```
 
 <br>
@@ -140,7 +141,7 @@ Loading GitHub trophies...
 
 <br>
 
-## <h2 align="center">💭 $ fortune | cowsay</h2>
+## <h2 align="center">💡 $ cat /usr/share/quotes/engineering.txt</h2>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote_bg_color=0d1117&quote_color=00ff00&author_color=00ff00&border_color=00ff00)
 
@@ -183,13 +184,13 @@ Fetching top contributed repositories...
 ┌─────────────────────────────────────────────────────────────────────┐
 │                                                                     │
 │  > exit                                                             │
-│  Thank you for visiting! Feel free to explore my repositories.     │
 │                                                                     │
-│  ~ Crafted with 💚 by StoaxCode ~                                  │
+│  Professional Embedded Systems Development                         │
+│  Connect with me for collaboration opportunities                   │
 │                                                                     │
 └─────────────────────────────────────────────────────────────────────┘
 ```
 
 </div>
 
-<!-- Proudly generated with terminal aesthetics in mind -->
+<!-- Professional GitHub Profile -->
