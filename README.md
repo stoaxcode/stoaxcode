@@ -40,47 +40,39 @@ Currently studying <strong>Electronics Technology</strong> and building hands-on
 
 ## 📊 GitHub Stats
 <div align="center">
-  ![](https://github-readme-stats.vercel.app/api?username=stoaxcode&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-  ![](https://nirzak-streak-stats.vercel.app/?user=stoaxcode&theme=dark&hide_border=false)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=stoaxcode&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  <img src="https://github-readme-stats.vercel.app/api?username=stoaxcode&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/><br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=stoaxcode&theme=tokyonight&hide_border=false" alt="GitHub Streak"/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stoaxcode&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
 </div>
 
 ---
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  ![](https://github-profile-trophy.vercel.app/?username=stoaxcode&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+  <img src="https://github-profile-trophy.vercel.app/?username=stoaxcode&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
 </div>
 
 ---
 
 ## ✍️ Random Dev Quote
 <div align="center">
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </div>
 
 ---
 
 ## 🔝 Top Contributed Repos
 <div align="center">
-  ![](https://github-contributor-stats.vercel.app/api?username=stoaxcode&limit=5&theme=dark&combine_all_yearly_contributions=true)
+  <img src="https://github-contributor-stats.vercel.app/api?username=stoaxcode&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repos"/>
 </div>
 
 ---
 
 ## 📈 Profile Views
 <p align="center">
-  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=stoaxcode&icon=1&color=7" alt="Profile Views"/></a>
+  <img src="https://visitcount.itsvg.in/api?id=stoaxcode&icon=1&color=7" alt="Profile Views"/>
 </p>
 
----
-
-## 💰 Support Me
-<p align="center">
-  <a href="https://paypal.me/RolandAmoguis129">
-    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"/>
-  </a>
-</p>
 
 ---
 
