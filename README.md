@@ -2,7 +2,7 @@
 
 # 💻 StoaxCode
 
-### Electronics Technology Student | Aspiring Embedded Systems Engineer
+### Electronics Technology Student | Electronics & Linux (Sometimes Fishing)
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Electronics+Technology+Student;Embedded+Systems+Enthusiast;Learning+Firmware+Development;PLC+Programming;Building+Hands-on+Experience" alt="Typing SVG" />
 
