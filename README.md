@@ -106,7 +106,7 @@ StudentProfile me = {
 
 ## 🏆 Achievements
 
-![](https://github-profile-trophy.vercel.app/?username=stoaxcode&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=7)
+![](https://github-profile-trophy.vercel.app/?username=stoaxcode&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=4)
 
 </div>
 
@@ -116,7 +116,7 @@ StudentProfile me = {
 
 ## 📈 Contribution Graph
 
-![](https://github-contributor-stats.vercel.app/api?username=stoaxcode&limit=5&theme=matrix&combine_all_yearly_contributions=true&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=00ff00)
+![](https://github-readme-activity-graph.vercel.app/graph?username=stoaxcode&bg_color=0d1117&color=00ff00&line=00ff00&point=00ff00&area=true&hide_border=true)
 
 </div>
 
@@ -136,6 +136,6 @@ StudentProfile me = {
 
 ### 🎓 Student | 🔧 Embedded Systems Enthusiast | ⚡ Learning & Building
 
-![Profile Views](https://visitcount.itsvg.in/api?id=stoaxcode&icon=2&color=12&labelColor=0d1117)
+![Profile Views](https://komarev.com/ghpvc/?username=stoaxcode&style=for-the-badge&color=00ff00&label=PROFILE+VIEWS&base=0&abbreviated=true)
 
 </div>
